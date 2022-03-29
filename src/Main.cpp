@@ -2,8 +2,8 @@
 
 int main()
 {
+    std::string a;
     std::cout << "Hello World!\n";
-    int a;
-    int b;
+    std::cin >> a;
 }
 
